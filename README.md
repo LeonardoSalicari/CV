@@ -1,4 +1,4 @@
-# cv
+# CV
 Curriculum Vitae
 
-Simple CV [stooolen](https://github.com/Kappanneo/CV/tree/master) from a [beautiful person](https://github.com/Kappanneo)
+CV template ~~stolen~~ [borrowed](https://github.com/Kappanneo/CV/tree/master) from a [nice person](https://github.com/Kappanneo)

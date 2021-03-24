@@ -1,4 +1,4 @@
-# Linkedin
+# Linkedin (Italian)
 Appunti del webinar organizzato dal carrier service UniPD
 
 Relatore: Lorenzo Amadei (imho molto chiaro)

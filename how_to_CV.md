@@ -1,4 +1,4 @@
-# How to CV
+# How to CV (Italian)
 
 Consigli raccolti dalla lezione di 30 minuti fatta da Paola Muzzu del Career Service dell'UNIPD.
 

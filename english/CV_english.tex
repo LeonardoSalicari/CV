@@ -3,6 +3,7 @@
 % * doesn't use colours, different font weights are used instead for styling;
 % * because the CV fits on one page, header and footer is empty, since there isn't much useful info to put there;
 % * includes a photo.
+ 
 
 % To be compiled with: LuaLaTeX
 \documentclass[a4paper,10pt]{article}
@@ -247,7 +248,7 @@
 
     % address
     \cvpersonalinfolinewithicon{height=4mm}{072-location.pdf}{
-        Via Eugubina 121, 06125, Perugia (Italy)
+        Padua, Veneto (Italy)
     }
 
     % phone number
@@ -267,6 +268,36 @@
     
     % date of birth
     Born 7 June 1996
+}
+
+
+% work experience
+% ---------------
+
+\cvsection{WORK EXPERIENCES}
+
+% Ph.D. because, yes, it's a job
+\cvitem{
+    \cvdurationstyle{October 2021 - ongoing}
+}{
+    \cvtitle{Ph.D. in Physics}
+
+    \cvdurationfont{Ph.D. at University of Padua, Department of Physics and Astronomy "Galileo Galilei"}
+
+    Supervisor: Prof. Antonio Trovato\\
+    Topic: Statistical Mechanics and numerical simulations of topologically entangled proteins
+
+    Fields of research: Statistical Mechanics, Computational Biology, Complex Systems
+}
+
+
+% children's chaperone
+\cvitem{
+    \cvdurationstyle{June 2015 - July 2019}
+}{
+    \cvtitle{Children's chaperone}
+
+    \cvdurationfont{Soggiorni TIM: Colleverde Summer Camps, Colle Umberto, Perugia, Italy}
 }
 
 
@@ -308,22 +339,6 @@
 }
 
 
-% work experience
-% ---------------
-
-\cvsection{WORK EXPERIENCES}
-
-
-% children's chaperone
-\cvitem{
-    \cvdurationstyle{June 2015 - July 2019}
-}{
-    \cvtitle{Children's chaperone}
-
-    \cvdurationfont{Soggiorni TIM: Colleverde Summer Camps, Colle Umberto, Perugia, Italy}
-}
-
-
 % other experiences
 % -----------------
 
@@ -336,6 +351,7 @@
     \begin{itemize}[leftmargin=*]
         \item Mathematics
         \item Physics
+        \item C Programming language
     \end{itemize}
 }
 
@@ -367,7 +383,8 @@
     \cvheadingstyle{Computer Science}\\
     Programming languages: C++, Python, and \LaTeX\\
     Interests in Data Analysis and Data Visualization\\
-    Machine Learning basics
+    Machine Learning basics\\
+    Front-end development: HTML, CSS, JavaScript
     
 }
 

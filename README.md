@@ -1,7 +1,7 @@
 # Curriculum Vitae
 
-Download [academic versione (in english)](https://github.com/scappati/CV/releases/latest/download/CV_academic.pdf)
+Download [academic versione (in english)](https://github.com/loscati/CV/releases/latest/download/CV_academic.pdf)
 
-Download [english version](https://github.com/scappati/CV/releases/latest/download/CV_english.pdf)
+Download [english version](https://github.com/loscati/CV/releases/latest/download/CV_english.pdf)
 
-Scarica la [versione italiana](https://github.com/scappati/CV/releases/latest/download/CV_italian.pdf)
+Scarica la [versione italiana](https://github.com/loscati/CV/releases/latest/download/CV_italian.pdf)

@@ -1,6 +1,6 @@
 # Curriculum Vitae
 
-Download [academic versione (in english)](https://github.com/loscati/CV/releases/latest/download/CV_academic.pdf)
+Download [academic version (english)](https://github.com/loscati/CV/releases/latest/download/CV_academic.pdf)
 
 Download [english version](https://github.com/loscati/CV/releases/latest/download/CV_english.pdf)
 
